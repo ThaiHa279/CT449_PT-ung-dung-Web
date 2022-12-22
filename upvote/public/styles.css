@@ -1,0 +1,10 @@
+.section {
+    padding: 20px;
+    margin: auto;
+    width: 50%;
+    border: 1px solid rgb(181, 181, 181);
+    border-radius: 10px;
+}
+.image-inline {
+    float: right;
+}
